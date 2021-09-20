@@ -8,4 +8,6 @@ In addition, this GitlabCI has a Kubernetes CI/CD pipeline deploying an Node.js 
 
 I will try to deploy another Node.js app that make calls for the app above and logs only the Http code 500 in some resource, I'll still decide in what resource! Any recommendations? Let me know! <br>
 
+In the future it will have a Terraform integration with Helm as well, maybe to deploy the Kubernetes environment or/and some resources in a Cloud as GCP, AWS or Azure.
+
 For now that's it! <br>
