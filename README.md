@@ -10,4 +10,6 @@ I will try to deploy another Node.js app that make calls for the app above and l
 
 In the future it will have a Terraform integration with Helm as well, maybe to deploy the Kubernetes environment or/and some resources in a Cloud as GCP, AWS or Azure.
 
+Is desired to have here an Grafana Deployment to collect Metrics and Observability (spams, traces) of our Microservices.
+
 For now that's it! <br>
